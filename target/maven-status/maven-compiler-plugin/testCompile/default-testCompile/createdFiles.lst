@@ -1,0 +1,11 @@
+starter/templates/FreemarkerTemplate.class
+starter/status/ApplicationStatus.class
+starter/stepdefinitions/ApplicationStatusStepDefinitions.class
+starter/CucumberTestSuite.class
+starter/status/AppStatus.class
+starter/trades/RecordNewTrade.class
+starter/templates/MergeFrom.class
+starter/trades/TradeResponse.class
+starter/WebServiceEndPoints.class
+starter/stepdefinitions/TradeStepDefinitions.class
+starter/templates/FieldValues.class
